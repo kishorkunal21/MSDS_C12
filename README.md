@@ -1,4 +1,4 @@
-# MindMap - summarizing Ficiton texts
+# MindMap - summarizing Fiction texts
 
 This is a thesis work done on summarizing fiction texts and representing it as Mind Maps for quick overview and recall.
 
@@ -8,3 +8,5 @@ Summarization has been done using Transformers pretrained models and D3.js has b
 The developments and analysis are covered in Phase I-III jupyter notebooks.
 
 Final representation is in D3_tree.html
+
+TheAlchemist.txt - contains the fiction text of book of the same name by author Paulo Coelho
