@@ -1,0 +1,32 @@
+Howard Roark stood naked at the edge of a cliff. A frozen explosion of granite  burst in flight to the sky over motionless water. The lake below was only a thin steel ring that cut the rocks in half. The rocks went on into the  depth, unchanged. They began and ended in the sky. So that the world seemed suspended in  space, an island floating on nothing, anchored to the feet of the man.'
+
+'Peter Keating\'s latest novel, "Howard ROARK," is published by Simon & Schuster. It is the first of a two-part series about a man who kills himself. Keating tells the story of how Howard ROARK killed himself. The book is about the man\'s last moments before he kills himself, and how he prepares for the next phase of his life. It\'s also about how Keating came to the decision to kill himself.'
+
+[{'rouge-1': {'r': 0.3076923076923077,
+   'p': 0.050156739811912224,
+   'f': 0.08625336686190894},
+  'rouge-2': {'r': 0.07142857142857142,
+   'p': 0.008896797153024912,
+   'f': 0.015822782840290265},
+  'rouge-l': {'r': 0.28846153846153844,
+   'p': 0.047021943573667714,
+   'f': 0.08086253128239412}}]
+
+
+[{'rouge-1': {'r': 0.9636363636363636,
+   'p': 0.16614420062695925,
+   'f': 0.28342245738439764},
+  'rouge-2': {'r': 0.9577464788732394,
+   'p': 0.12099644128113879,
+   'f': 0.21484991901938913},
+  'rouge-l': {'r': 0.9636363636363636,
+   'p': 0.16614420062695925,
+   'f': 0.28342245738439764}}]
+
+   
+   [
+Note: "f" stands for f1_score, "p" stands for precision, "r" stands for recall.
+
+-l is longest matching sub sequence
+
+https://www.freecodecamp.org/news/what-is-rouge-and-how-it-works-for-evaluation-of-summaries-e059fb8ac840/
