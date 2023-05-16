@@ -2,7 +2,7 @@ Jonathan Livingston Seagull - a story
 
 
 
-Part One 
+PART ONE
 
 it was morning, and the new sun sparkled gold across the ripples of a gentle 
 sea. 
@@ -381,7 +381,7 @@ disappear into a perfect dark sky.
 
 
 
-Part Two 
+PART TWO
 
 So this is heaven, he thought, and he had to smile at himself. It was hardly 
 respectful to analyse heaven in the very moment that one flies up to enter it. 
@@ -767,7 +767,7 @@ kind, "Let's begin with Level Flight... "
 
 
 
-Part Three 
+PART THREE
 
 Jonathan circled slowly over the Far Cliffs, watching. This rough young 
 Fletcher Gull ws very nearly a perfect flight-student. He was strong and light 
